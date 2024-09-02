@@ -11,12 +11,10 @@
   - 🏃‍♂️Run
     - 10Km / 48:21
 
-<style>
- span{
-   background-color:white;
- }
-</style>
-<span>test</span>
+<span style>test</span>
+
+<span style="background-color: aliceblue;">test</span>
+
 
 <!--
 **Sungileo/Sungileo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
