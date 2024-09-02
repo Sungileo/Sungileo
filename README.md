@@ -1,5 +1,8 @@
 # 반갑습니다.<br>박성일 입니다.
 
+<img src="https://github.com/Sungileo/trainsets/blob/main/ji.png?raw=true">
+
+
 <!--
 **Sungileo/Sungileo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
