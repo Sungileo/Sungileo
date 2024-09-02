@@ -11,7 +11,11 @@
   - 🏃‍♂️Run
     - 10Km / 48:21
 
-
+<style>
+ span{
+   background-color:white;
+ }
+</style>
 <span>test</span>
 
 <!--
