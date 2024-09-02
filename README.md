@@ -1,5 +1,15 @@
 # 반갑습니다.<br>박성일 입니다.
 
+- 🔭 I’m currently working on Sungil-LAB
+- 🌱 I’m currently learning Data Analystics, Statistics, DX
+- 🤔 I’m looking for Job...
+- ⚡ PB:
+  - 🏊‍♂️Swim 
+    - 100m / 1:25
+    - 1000m / 18:40
+    - 1500m / 27:38
+  - 🏃‍♂️Run
+    - 10Km / 48:21
 
 
 <!--
@@ -7,10 +17,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
