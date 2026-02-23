@@ -1,8 +1,6 @@
 # 반갑습니다.<br>박성일 입니다.
 
-- 🔭 I’m currently working on Sungil-LAB
-- 🌱 I’m currently learning Data Analystics, Statistics, DX
-- 🤔 I’m looking for Job...
+
 
 
 <!--
